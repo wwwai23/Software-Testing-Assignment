@@ -1,3 +1,6 @@
+## Test Case Plan Sheet Link
+https://github.com/wwwai23/Software-Testing-Assignment
+
 ## What are the functional testing types?
 Ans:
 
