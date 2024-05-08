@@ -26,6 +26,7 @@ That means automated testing is faster than manual testing. Automated testing is
 What is the difference between functional and nonfunctional testing?
 Ans:
 Functional Testing : It checks apps operations and actions based on business requirement. And it also checks actual vs expected results. Focuses on verifying that the software meets its specifications.
+
 Non-functional Testing : It checks apps based on customer expectations. It also checks response, speed, and other requirements. Focuses on verifying the performance, reliability, usability and other qualities of the software.
 
 Do you think performance testing is important? Why?
