@@ -1,5 +1,5 @@
 ## Test Case Plan Sheet Link
-https://github.com/wwwai23/Software-Testing-Assignment
+https://docs.google.com/spreadsheets/d/1sxSrCyg4gpZeAzRcXPtrEk2-TfMK7g_9HM8B1qBjlS0/edit?usp=sharing
 
 ## What are the functional testing types?
 Ans:
